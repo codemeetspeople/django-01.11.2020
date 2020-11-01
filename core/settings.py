@@ -27,8 +27,8 @@ SECRET_KEY = '(2@ot!-m17)%anf0y1p%)o+&vwdr5lay^!h&fr+h^ukbvqz$eg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
-INTERNAL_IPS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'bcw6.life']
+INTERNAL_IPS = ['127.0.0.1', '165.227.158.163']
 
 
 # Application definition
